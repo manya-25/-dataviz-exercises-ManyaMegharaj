@@ -1,2 +1,0 @@
-# dataviz-exercises-abhishekgowda
-
